@@ -1,2 +1,2 @@
 # Pkg
-Https://gitclone.com/pokjuygfdeswaw/Athlas
+Https://gitclone.com/pokjuygfdeswaw/Atlas.py
